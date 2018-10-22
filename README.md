@@ -4,10 +4,10 @@ Use TensorFlow to build a Dense Neural Network that will be used to automaticall
 
 Document list in this zip file:
 
-1. data file: CTG.xls
+1. data file: CTG.xls in 'data' folder
 
-2. Code file was presented as jupyter notebook: code_part.ipynb
+2. Code file was presented as jupyter notebook: coding_part.ipynb
  
 3. TensorBoard visualization: TensorBoard.png
 
-4. jupyter notebook also converted to .py file: code_part.py
+4. jupyter notebook also converted to .py file: coding_part.py
